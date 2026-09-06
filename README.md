@@ -1,12 +1,12 @@
 # sql_retail_sales_project
 ## Project Overview
--- ** Project Title **:Retail sales Analysis
--- *Level*: Beginner
--- *Database*: retail_db
+-- **Project Title**:Retail sales Analysis
+-- **Level**: Beginner
+-- **Database**: retail_db
 
-This project demonstrates practical *SQL skills used in data analysis*, including data exploration, cleaning, and analysis of retail sales data. The project involves setting up a retail sales database, performing *Exploratory Data Analysis (EDA)*, and writing SQL queries to answer real-world business questions.
-The goal of this project is to strengthen my understanding of SQL and demonstrate how SQL can be used to *extract meaningful insights from raw sales data and support data-driven business decisions*. It covers essential SQL concepts such as filtering, aggregation, grouping, subqueries, window functions, and date-based analysis.
-This project is particularly useful for building a strong foundation in *SQL and data analytics* and applying SQL concepts to a practical business scenario.
+This project demonstrates practical **SQL skills used in data analysis**, including data exploration, cleaning, and analysis of retail sales data. The project involves setting up a retail sales database, performing **Exploratory Data Analysis (EDA)**, and writing SQL queries to answer real-world business questions.
+The goal of this project is to strengthen my understanding of SQL and demonstrate how SQL can be used to **extract meaningful insights from raw sales data and support data-driven business decisions**. It covers essential SQL concepts such as filtering, aggregation, grouping, subqueries, window functions, and date-based analysis.
+This project is particularly useful for building a strong foundation in **SQL and data analytics** and applying SQL concepts to a practical business scenario.
 
 ## Objectives
 1.*Set up a retail sales database*: Create and populate a retail sales database with the provided sales data.
