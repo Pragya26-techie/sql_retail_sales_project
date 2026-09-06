@@ -1,6 +1,6 @@
 # sql_retail_sales_project
 ## Project Overview
--- * Project Title *:Retail sales Analysis
+-- ** Project Title **:Retail sales Analysis
 -- *Level*: Beginner
 -- *Database*: retail_db
 
