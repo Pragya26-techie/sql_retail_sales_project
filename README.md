@@ -18,8 +18,7 @@ This project is particularly useful for building a strong foundation in **SQL an
 ### 1.Database Setup
 -- **Database Creation**:The projects starts by creating a database named retail_db.
 -- **Table Creation**:A table named retail_sales is created to store the sales data.The table structure includes columns for transaction ID,sale date,sale time,customer ID,gender,age,project category,quqntity sold,price per unit,cost of goods sold(COGS),and total sale amount.
-CREATE DATABASE p1_retail_db;
-
+```
 CREATE TABLE retail_sales
 (
     transactions_id INT PRIMARY KEY,
@@ -33,7 +32,7 @@ CREATE TABLE retail_sales
     price_per_unit FLOAT,	
     cogs FLOAT,
     total_sale FLOAT
-);
+);```
 
 ### 2.Data Exploration & Cleaning
 -- *Record Count*:Determine the total number of records in the dataset.
